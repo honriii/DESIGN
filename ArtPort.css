@@ -1,0 +1,88 @@
+body {
+	background-color: black;
+}
+
+.hometop {
+	color: white;
+	font-family: 'helvetica';
+	position: relative;
+	top: -50px;
+}
+
+.hometop h1 {
+	font-size: 252px;
+}
+.hometop h3{
+	font-size: 52px;
+	position: relative;
+	bottom: 90px;
+}
+
+.TwoD{
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+
+
+}
+
+.aw1  {
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 700px;
+	float: left;
+	margin-left: 20px;
+}
+
+.aw2 {
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 700px;
+	margin-left: 20px;
+}
+
+.aw3{
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 700px;
+	margin-left: 20px;
+}
+
+.wl1  {
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 700px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.wl2 {
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 700px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.wl3{
+	width: auto;
+	height: auto;
+	max-width: 400px;
+	max-height: 700px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.awboard iframe{
+	width: 380px;
+	height: 575px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
